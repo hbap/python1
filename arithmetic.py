@@ -4,7 +4,7 @@ Adds, subtracts, multiples, and divides two integers.
 Demonstrates integer arithmetic.
 """
 
-# Prompt user for x
+# Prompt user for x only
 x = int(input("x: "))
 
 # Prompt user for y
