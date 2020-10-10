@@ -8,7 +8,7 @@ Demonstrates integer arithmetic.
 x = int(input("x: "))
 
 # Prompt user for y
-y = int(("y: "))
+y = int(input("y: "))
 
 # Perform arithmetic
 print(f"{x} plus {x} is {x + y}")
@@ -18,3 +18,4 @@ print(f"{x} to the power of {y} is {x ** y}")
 print(f"{x} truly divided by {y} is {x / y}")
 print(f"{x} floor-divided by {y} is {x // y}")
 print(f"remainder of {x} divided by {y} is {x % y}")
+exit
